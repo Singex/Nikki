@@ -1,12 +1,11 @@
 IP-CIDR,142.251.215.0/24,no-resolve
 
+DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,yalala.com
-DOMAIN-SUFFIX,whois.pconline.com.cn
-DOMAIN-SUFFIX,ipip.net
-DOMAIN-SUFFIX,b0.upaiyun.com
 DOMAIN-SUFFIX,asn247.net
 DOMAIN-SUFFIX,astrill.org
-DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,b0.upaiyun.com
+DOMAIN-SUFFIX,whois.pconline.com.cn
 
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,test-ipv6.com
@@ -67,7 +66,6 @@ DOMAIN-SUFFIX,whoisip.me
 DOMAIN-SUFFIX,ipaddress.me
 DOMAIN-SUFFIX,ip2proxy.com
 DOMAIN-SUFFIX,vpnapi.io
-
 
 IP-CIDR,74.125.250.129/24,no-resolve
 
