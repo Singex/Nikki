@@ -2,7 +2,6 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,whtjdasha.com
 DOMAIN-SUFFIX,chybinc.com
 DOMAIN-SUFFIX,gfw.gg
@@ -16,7 +15,6 @@ DOMAIN-SUFFIX,tutu.pm
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,aerianas.top
 DOMAIN-SUFFIX,sssyun.xyz
 DOMAIN-SUFFIX,qeayr.cn
@@ -40,6 +38,13 @@ DOMAIN-SUFFIX,xiaoniuyun.cc
 DOMAIN-SUFFIX,vp2.us
 DOMAIN-SUFFIX,km688.ink
 DOMAIN-SUFFIX,futo-on.com
+DOMAIN-SUFFIX,jueduibupao.top
+DOMAIN-SUFFIX,alipoly.sbs
+DOMAIN-SUFFIX,networklinkpro.com
+DOMAIN-SUFFIX,YOUSUTONG.XYZ
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,baidu
 
 # 快猫    
 DOMAIN-SUFFIX,quickcht3.club
@@ -49,6 +54,7 @@ DOMAIN-SUFFIX,kuaimaonodebgp.com
 # 火烧
 DOMAIN-SUFFIX,onesubv.site
 DOMAIN-SUFFIX,oneyyds.online
+
 # 猫耳 
 DOMAIN-SUFFIX,zhunchuanpb.com
 DOMAIN-SUFFIX,sevenka.top
@@ -57,9 +63,9 @@ DOMAIN-SUFFIX,maocf1.top
 # BestVPN 
 DOMAIN-SUFFIX,prosubnet02.eu
 DOMAIN-SUFFIX,networklinkpro.net
+
 # 小牛
-DOMAIN-SUFFIX,4yfu73r3a4kl.com
-# DOMAIN-SUFFIX,xiaoniuyun.cc  
+DOMAIN-SUFFIX,4yfu73r3a4kl.com 
 DOMAIN-SUFFIX,xiaoniuyun11.com
 DOMAIN-SUFFIX,oxeuro.xyz
 DOMAIN-SUFFIX,v140oy1s.xyz
@@ -84,24 +90,17 @@ DOMAIN-SUFFIX,stga.cn
 # 冰云
 DOMAIN-SUFFIX,bingyun.ink   
 DOMAIN-SUFFIX,fafhjkah.xyz
+
 # 牛逼 
 DOMAIN-SUFFIX,66jc.top
 DOMAIN-SUFFIX,zhunchuanpb.com
 DOMAIN-SUFFIX,swmixx.cn
-
-DOMAIN-SUFFIX,jueduibupao.top
-DOMAIN-SUFFIX,alipoly.sbs
-DOMAIN-SUFFIX,networklinkpro.com
-DOMAIN-SUFFIX,YOUSUTONG.XYZ
 
 # 九游
 DOMAIN-SUFFIX,izenny.com
 DOMAIN-SUFFIX,1yuan.sbs
 DOMAIN-SUFFIX,maocf1.top
 DOMAIN-SUFFIX,sevenka.top
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
