@@ -146,6 +146,7 @@ IP-CIDR,142.250.0.0/16,no-resolve
 
 
 # Sing's rule
+IP-CIDR,194.221.250.50/32
 DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,ebay.com
