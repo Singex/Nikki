@@ -102,6 +102,13 @@ DOMAIN-SUFFIX,1yuan.sbs
 DOMAIN-SUFFIX,maocf1.top
 DOMAIN-SUFFIX,sevenka.top
 
+# ------ ZeroTier 内网直连规则开始 ------
+IP-CIDR,192.168.192.0/24,DIRECT,no-resolve
+IP-CIDR,10.10.10.0/24,DIRECT,no-resolve
+IP-CIDR,192.168.29.0/24,DIRECT,no-resolve
+IP-CIDR,192.168.5.0/24,DIRECT,no-resolve
+IP-CIDR,192.168.55.0/24,DIRECT,no-resolve
+
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
