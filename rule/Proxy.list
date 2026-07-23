@@ -1,7 +1,10 @@
 # Sing's rule
 DOMAIN-SUFFIX,cnbeta.com.tw
 DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,cloudfisher.cc
+DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,ui.com
+
+# 渔云Emby服务器
+DOMAIN-SUFFIX,cloudfisher.cc
